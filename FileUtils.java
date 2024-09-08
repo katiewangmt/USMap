@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
  public class FileUtils {
 	 
 	 /**
-	  *  Opens a file to read using the Scanner class.
+	  * Opens a file to read using the Scanner class.
 	  * @param fileName 	name of the file to open
 	  * @return 			the Scanner object to the file 
 	  */
